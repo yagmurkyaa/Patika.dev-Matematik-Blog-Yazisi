@@ -1,4 +1,5 @@
 Vektörler: Matematikte ve Fizikte Kullanımı
+
 Vektörler, matematik ve fizik dünyasında temel bir kavramdır. Hem matematikte hem de fizikte kullanılan bu vektörlerin özü, yön ve büyüklüğü ifade etmek için kullanılan matematiksel nesnelerdir. İlk bakışta karmaşık gibi görünebilirler, ancak vektörleri anlamak için temel kavramlara odaklanarak, sezgisel bir anlayış geliştirebilirsiniz.
 
 Vektör Nedir?
